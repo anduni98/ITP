@@ -64,7 +64,7 @@ export class DataProvider extends  Component{
                 "src": "https://i.pinimg.com/originals/c5/69/f7/c569f770b09c83ae36e1f6555b59c520.jpg",
                 "Description": "Gift certificate code - GCC0006",
                 "Context": "Gift Voucher - For jewelries",
-                "price": 8000.00,
+                "price": 9000.00,
                 "colors": ["orange", "black", "crimson", "teal"],
                 "count": 1
             }
